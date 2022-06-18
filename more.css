@@ -1,0 +1,81 @@
+body {
+  background-image: url("bg-intro-desktop.png");
+  background-color: rgba(214, 10, 10, 0.863);
+  display: flex;
+  position: relative;
+}
+.box7 {
+  color: aliceblue;
+  width: 300px;
+}
+.box6 {
+  background-color: rgba(225, 255, 255, 0);
+  width: 400px;
+  color: aliceblue;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+.box2 {
+  background-color: rgb(121, 12, 143);
+  width: 500px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  color: aliceblue;
+  padding-top: 20px;
+}
+.box2 text {
+  position: absolute;
+  top: 50%;
+}
+.containerb {
+  padding-bottom: 50px;
+  background-color: white;
+  position: relative;
+  border-radius: 10px;
+  max-width: fit-content;
+}
+.box8 {
+  width: auto;
+  height: auto;
+}
+.box8 input {
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+  margin: 30px 20px 10px 20px;
+  box-shadow: 0px 0px 2px 0px;
+  border: 0px;
+}
+.box20 {
+  padding: 80px 0px 80px 600px;
+  margin: 0 auto;
+  max-width: fit-content;
+  max-height: fit-content;
+}
+
+button {
+  background-color: rgba(27, 190, 54, 0.774);
+  width: 445px;
+  height: 50px;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+  margin: 20px 20px 10px 20px;
+  border: 0px;
+}
+.for {
+  font-size: smaller;
+  text-align: center;
+}
+
+form {
+  border-radius: 10px;
+  box-shadow: 0px 3px 0px 0px;
+  box-shadow: dimgray;
+}
